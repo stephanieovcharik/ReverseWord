@@ -22,4 +22,5 @@ public class ReverseString {
                 	System.out.println("Case #"+ i +": " +reverse);
             	}
         }
+        sc.close();
 }
